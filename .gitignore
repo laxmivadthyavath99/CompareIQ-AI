@@ -5,3 +5,9 @@
 /README.md
 /uv.lock
 /__pycache__
+.venv/
+.env
+__pycache__/
+*.pyc
+.vscode/
+.idea/
